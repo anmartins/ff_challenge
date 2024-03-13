@@ -4,7 +4,7 @@
 
 ### Setup
 
-If ruby does not exist on tour machine.
+If ruby does not exist on your machine.
 ```
 curl -sSL https://get.rvm.io | bash
 
